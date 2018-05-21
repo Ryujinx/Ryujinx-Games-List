@@ -1,0 +1,11 @@
+{ 
+	"title_id": 
+	[ 
+		"XXXXXXXXXXXXXXXX"
+	],
+	"name": "3D miniGolf",
+	"state": "Nothing",
+	"state_emu_version": "",
+	"state_last_date": "5/21/2018",
+	"comment": "System.NotImplementedException: SvcGetInfo: 16 ffff8001 0"
+}
