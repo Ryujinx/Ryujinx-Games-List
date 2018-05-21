@@ -1,0 +1,11 @@
+{ 
+	"title_id": 
+	[ 
+		"XXXXXXXXXXXXXXXX"
+	],
+	"name": "Azure.Striker gunvolt Striker Pack",
+	"state": "Nothing",
+	"state_emu_version": "",
+	"state_last_date": "5/21/2018",
+	"comment": "ChocolArm64.Exceptions.VmmPageFaultException: Tried to access unmapped address 0x00004287f2000006!"
+}
