@@ -1,0 +1,11 @@
+{ 
+	"title_id": 
+	[ 
+		"0100011005D92000"
+	],
+	"name": "Batman The Telltale Series",
+	"state": "Nothing",
+	"state_emu_version": "",
+	"state_last_date": "5/21/2018",
+	"comment": "System.NotImplementedException: appletOE IApplicationFunctions: 50"
+}
