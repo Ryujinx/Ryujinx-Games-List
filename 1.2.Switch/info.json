@@ -4,7 +4,7 @@
 		"01000320000CC000"
 	],
 	"name": "1.2.Switch",
-	"state": "Unimplemented Service",
+	"state": "/dev/nvhost-nvdec 4801",
 	"state_emu_version": "5b9dccc7",
 	"state_last_date": "08/06/2018",
 	"comment": "`time:u ISystemClock: 2` > `GetSystemClockContext() -> nn::time::SystemClockContext`",
