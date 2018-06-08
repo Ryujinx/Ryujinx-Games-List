@@ -4,8 +4,8 @@
 		"01000320000CC000"
 	],
 	"name": "1.2.Switch",
-	"state": "/dev/nvhost-nvdec 4801",
-	"state_emu_version": "5b9dccc7",
+	"state": "/dev/nvhost-nvdec 40044801",
+	"state_emu_version": "ae412ffc",
 	"state_last_date": "08/06/2018",
 	"comment": "`time:u ISystemClock: 2` > `GetSystemClockContext() -> nn::time::SystemClockContext`",
 	"nickname": "NekokoTime"
