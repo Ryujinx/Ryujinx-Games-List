@@ -1,11 +1,11 @@
 "title_id": 
 	[ 
-		"01006DA00707C000"
+		"01000320000CC000"
 	],
 	"name": "1.2.Switch",
 	"state": "Unimplemented Service",
-	"state_emu_version": "84996cc",
-	"state_last_date": "22/05/2018",
+	"state_emu_version": "5b9dccc7",
+	"state_last_date": "08/06/2018",
 	"comment": "`time:u ISystemClock: 2` > `GetSystemClockContext() -> nn::time::SystemClockContext`",
-	"nickname": "Mcdev"
+	"nickname": "NekokoTime"
 }
