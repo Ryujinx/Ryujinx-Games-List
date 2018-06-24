@@ -1,0 +1,13 @@
+ { 
+	"title_id": 
+	[ 
+		"0100E65002BB8000", 
+		"0100E65002BB8800" 
+	],
+	"name": "Stardew Valley",           
+	"state": "Main Menu Screen",              
+	"state_emu_version": "e7559f1",  
+	"state_last_date": "24/06/2018", 
+	"comment": "Boots into main menu but the screen is all kinds of distorted", 
+	"nickname": "MysticExile"       
+}
