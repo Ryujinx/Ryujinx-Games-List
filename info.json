@@ -1,19 +1,16 @@
-- { 
-+{ 
+ { 
+{ 
  	"title_id": 
  	[ 
  		"0100D940022F6000", 
--		"0100D940022F6000", 
-+		"0100D940022F6000" 
+		"0100D940022F6000", 
+		"0100D940022F6000" 
  	],
  	"name": "Tiny Barbarian DX",           
--	"state": "Playable",              
--	"state_emu_version": "7c7ee8f",  
--	"state_last_date": "25/06/2018", 
--	"comment": "Goes in-game with 200+ fps", 
-+	"state": "Main Menu Screen",              
-+	"state_emu_version": "7c7ee8f",  
-+	"state_last_date": "25/06/2018", 
-+	"comment": "Goes in-game with 200+ fps", 
+	"state": "Playable",              
+	"state_emu_version": "7c7ee8f",  
+	"state_last_date": "25/06/2018", 
+	"comment": "Goes in-game with 200+ fps", 
+	"state": "Main Menu Screen",              
  	"nickname": "Daniele"       
  } 
