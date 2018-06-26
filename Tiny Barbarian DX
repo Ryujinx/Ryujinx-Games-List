@@ -1,0 +1,12 @@
+{ 
+    "title_id": 
+    [
+        "0100D940022F6000"
+    ],
+    "name": "Tiny Barbarian DX",
+    "state": "Playable",
+    "state_emu_version": "e7559f1",
+    "state_last_date": "26/06/2018",
+    "comment": "Can boot fully and arrives at 200fps without lock",
+    "nickname": "Daniele"
+}
