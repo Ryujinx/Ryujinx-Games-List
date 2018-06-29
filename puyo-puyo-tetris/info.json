@@ -5,9 +5,9 @@
 		"0100F3D001DEE800"
 	],
 	"name": "Puyo Puyo™ Tetris®",
-	"state": "Intro Screen",
-	"state_emu_version": "e7efee79",
-	"state_last_date": "03/06/2018",
-	"comment": "Shows intro logos but nothing more after a fadeout.",
-	"nickname": "Hexagon12"
+	"state": "In Game / Playable",
+	"state_emu_version": "37a6e84",
+	"state_last_date": "25/06/2018",
+	"comment": "Goes ingame but emulation is slow.",
+	"nickname": "gdkchan"
 }

@@ -4,9 +4,9 @@
 		"0100D940022F6000"
 	],
 	"name": "Tiny Barbarian DX",
-	"state": "In Game",
-	"state_emu_version": "7ac5f40",
-	"state_last_date": "19/05/2018",
-	"comment": "Goes ingame but emulation is slow.",
-	"nickname": "Ac_K"
+	"state": "In Game / Playable",
+	"state_emu_version": "7c7ee8f",
+	"state_last_date": "25/06/2018",
+	"comment": "Goes in-game with 200+ fps",
+	"nickname": "Ac_K & Daniele"
 }

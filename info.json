@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"01005700031AE000",
+		"01005700031AE800"
+	],
+	"name": "Disgaea 5 Complete",
+	"state": "Ingame / Unimplemented Service",
+	"state_emu_version": "7c7ee8f8",
+	"state_last_date": "25/06/2018",
+	"comment": "Game goes ingame but the graphic have many issue and no audio, input works, only 3-4 fps. It need `AppletOE ISelfController: 62` and `/dev/nvhost-nvdec 40044801` when cutscene play, can skip at dialogue chat before the cutscene play.",
+	"nickname": "Hexagon12 & HorrorTroll"
+}
