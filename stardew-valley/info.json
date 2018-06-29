@@ -5,9 +5,9 @@
 		"0100E65002BB8800" 
 	],
 	"name": "Stardew Valley",           
-	"state": "Main Menu Screen",              
-	"state_emu_version": "e7559f1",  
-	"state_last_date": "24/06/2018", 
-	"comment": "Boots into main menu but the screen is all kinds of distorted", 
+	"state": "In game",              
+	"state_emu_version": "e741782",  
+	"state_last_date": "29/06/2018", 
+	"comment": "Game is fully playable and runs 60fps in menu and an average of 10fps in game, screen is upsidedown.", 
 	"nickname": "MysticExile"       
 }
