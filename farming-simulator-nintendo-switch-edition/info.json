@@ -1,12 +1,11 @@
-{ 
-	"title_id": 
-	[ 
-		"0100D04004176000"
-	],
-	"name": "Farming Simulator Nintendo Switch Edition",
-	"state": "CPU Instruction Error",
-	"state_emu_version": "e7559f1",
-	"state_last_date": "24/06/2018",
-	"comment": "`The instruction at 0x0000000008336034 (opcode 0x2e212842) is undefined!`",
-	"nickname": "Firewolf"
+{
+  "title_id": [
+    "0100D04004176000"
+  ],
+  "name": "Farming Simulator Nintendo Switch Edition",
+  "state": "Main Menu",
+  "state_emu_version": "edfd4bc",
+  "state_last_date": "29/06/2018",
+  "comment": "Loads main menu, fonts have a white background, freezes when trying to load a game",
+  "nickname": "Firewolf"
 }
