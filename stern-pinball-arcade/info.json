@@ -4,9 +4,9 @@
 		"0100AE0006474000"
 	],
 	"name": "Stern Pinball Arcade",
-	"state": "Unimplemented Service",
-	"state_emu_version": "07e36c09",
+	"state": "CPU Instruction Error",
+	"state_emu_version": "19683868",
 	"state_last_date": "10/07/2018",
-	"comment": "Need ldr:ro implemented",
+	"comment": "The instruction at 0x00000000081c9148 (opcode 0x4e21c4e1) is undefined!",
 	"nickname": "HorrorTroll"
 }
