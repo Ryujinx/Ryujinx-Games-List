@@ -6,8 +6,8 @@
 	],
 	"name": "Stardew Valley",           
 	"state": "In Game",              
-	"state_emu_version": "e741782",  
-	"state_last_date": "29/06/2018", 
-	"comment": "Game is fully playable and runs 60fps in menu and an average of 10fps in game, screen is upsidedown.", 
+	"state_emu_version": "1968386",  
+	"state_last_date": "10/07/2018", 
+	"comment": "Game is fully playable and runs 60fps in menu and runs on an average of 30fps in game. The screen is upside down.", 
 	"nickname": "MysticExile"       
 }
