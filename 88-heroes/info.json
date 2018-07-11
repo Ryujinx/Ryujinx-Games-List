@@ -7,6 +7,6 @@
 	"state": "Emulation Error",
 	"state_emu_version": "19683868",
 	"state_last_date": "11/07/2018",
-	"comment": "Throws a System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values after SetNpadJoyAssignmentModeDual: Stubbed.",
+	"comment": "Throw a Loader Dispose: Process 0 waiting all threads terminate... then close the emu",
 	"nickname": "HorrorTroll"
 }
