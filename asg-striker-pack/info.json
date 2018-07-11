@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100192003FA4000"
+	],
+	"name": "Azure Striker GUNVOLT: STRIKER PACK",
+	"state": "CPU Instruction Error",
+	"state_emu_version": "19683868",
+	"state_last_date": "11/07/2018",
+	"comment": "32bit game not supported, Tried to access unmapped address 0x00004287f2000006.",
+	"nickname": "HorrorTroll"
+}
