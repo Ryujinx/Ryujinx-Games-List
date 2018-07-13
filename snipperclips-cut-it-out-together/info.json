@@ -5,9 +5,9 @@
 		"0100704000B3A800"
 	],
 	"name": "Snipperclips™ - Cut it out, together!",
-	"state": "Unimplemented Service",
-	"state_emu_version": "79e0070",
-	"state_last_date": "22/05/2018",
-	"comment": "Calls Svc `0x33 svcGetThreadContext3`",
-	"nickname": "Slick9000"
+	"state": "Emulation Error",
+	"state_emu_version": "3b00333",
+	"state_last_date": "13/07/2018",
+	"comment": "Freezes after `0006 ServiceHid SetSupportedNpadStyleSet: Stubbed.`",
+	"nickname": "Firewolf"
 }
