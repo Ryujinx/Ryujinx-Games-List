@@ -7,6 +7,6 @@
 	"state": "Emulation Error",
 	"state_emu_version": "19683868",
 	"state_last_date": "12/07/2018",
-	"comment": "Stuck on a threads loop, maybe due to a bad implementation of the scheduler.",
+	"comment": "It's trying to call IAudioOut: AppendAudioOutBuffer and IAudioOut: GetReleasedAudioOutBuffer after NvMap 12 gets created",
 	"nickname": "HorrorTroll"
 }
