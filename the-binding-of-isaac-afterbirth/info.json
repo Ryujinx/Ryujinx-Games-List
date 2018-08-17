@@ -8,8 +8,8 @@
 	],
 	"name": "The Binding of Isaac : Afterbirth",
 	"state": "In Game",
-	"state_emu_version": "7ac5f40",
-	"state_last_date": "19/05/2018",
-	"comment": "Throws 'SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000!' and goes ingame but emulation is slow.",
-	"nickname": "Ac_K"
+	"state_emu_version": "3410005",
+	"state_last_date": "17/08/2018",
+	"comment": "At the start of the game it stutters with 5-10FPS. after a few seconds the game runs without errors with 80FPS",
+	"nickname": "MichalSy"
 }
