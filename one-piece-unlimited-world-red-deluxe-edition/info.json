@@ -4,9 +4,9 @@
 		"0100574002AF4000"
 	],
 	"name": "One Piece Unlimited World Red Deluxe Edition",
-	"state": "Menu Screen",
-	"state_emu_version": "30829fc",
-	"state_last_date": "25/05/2018",
-	"comment": "Goes to menu screen and freezes when you start a new game.",
-	"nickname": "gdkchan"
+	"state": "Playable",
+	"state_emu_version": "3410051",
+	"state_last_date": "17/8/2018",
+	"comment": "Goes ingame, audio works, input works, the game runs at around 30-50fps",
+	"nickname": "Maik"
 }
