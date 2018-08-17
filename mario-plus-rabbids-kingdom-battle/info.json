@@ -6,8 +6,8 @@
 	],
 	"name": "Mario + Rabbids® Kingdom Battle",
 	"state": "CPU Instruction Error",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`The instruction at 0x00000000095b124c (opcode 0x5f811120) is undefined!`",
-	"nickname": "Ac_K"
+	"state_emu_version": "3410005",
+	"state_last_date": "17/08/2018",
+	"comment": "UndefinedInstructionException: `The instruction at 0x000000000157863c (opcode 0x4e042c28) is undefined!`",
+	"nickname": "MichalSy"
 }
