@@ -5,8 +5,8 @@
 	],
 	"name": "Portal Knights",
 	"state": "Unimplemented Services",
-	"state_emu_version": "30829fc",
-	"state_last_date": "25/05/2018",
-	"comment": "`nifm:u IStaticService: 5` > `CreateGeneralService(u64, pid) -> object<nn::nifm::detail::IGeneralService>`",
-	"nickname": "Mcdev"
+	"state_emu_version": "3410005",
+	"state_last_date": "17/08/2018",
+	"comment": "NotImplementedException: hwopus",
+	"nickname": "MichalSy"
 }
