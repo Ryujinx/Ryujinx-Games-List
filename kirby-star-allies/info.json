@@ -7,6 +7,6 @@
 	"state": "Unimplemented Services",
 	"state_emu_version": "3410005",
 	"state_last_date": "17/18/2018",
-	"comment": "NotImplementedException: hid IHidServer: 82\nNotImplementedException: nfp:user IUser: 2",
+	"comment": "NotImplementedException: hid IHidServer: 82",
 	"nickname": "MichalSy"
 }
