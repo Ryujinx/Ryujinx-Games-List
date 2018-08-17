@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100C38004DCC000"
+	],
+	"name": "The Flame In The Flood",
+	"state": "CPU Instruction Error",
+	"state_emu_version": "3410005",
+	"state_last_date": "17/08/2018",
+	"comment": "nn::svc::aarch64::lp64::Break(nn::svc::BreakReason, unsigned long, unsigned long) (sdk:000a9dec)",
+	"nickname": "MichalSy"
+}
