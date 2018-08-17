@@ -4,9 +4,9 @@
 		"0100D940022F6000"
 	],
 	"name": "Tiny Barbarian DX",
-	"state": "In Game / Playable",
-	"state_emu_version": "7c7ee8f",
-	"state_last_date": "25/06/2018",
-	"comment": "Goes in-game with 200+ fps",
-	"nickname": "Ac_K & Daniele"
+	"state": "Playable",
+	"state_emu_version": "3410005",
+	"state_last_date": "18/08/2018",
+	"comment": "Game works great with 40-60FPS. The flickering of the screen hardly disturbs when playing. There are always short load jerkers.",
+	"nickname": "MichalSy"
 }
