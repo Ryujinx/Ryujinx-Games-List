@@ -5,8 +5,8 @@
 	],
 	"name": "Dragon Quest Builders",
 	"state": "Unimplemented Service",
-	"state_emu_version": "84996cc",
-	"state_last_date": "22/05/2018",
-	"comment": "`fsp-srv IFileSystemProxy: 202` > `OpenDataStorageByDataId(nn::ApplicationId tid, u8 storageId) -> object<nn::fssrv::sf::IStorage> dataStorage`",
-	"nickname": "Mcdev"
+	"state_emu_version": "3410005",
+	"state_last_date": "17/08/2018",
+	"comment": "`fsp-srv IFileSystemProxy: 202` > `OpenDataStorageByDataId(nn::ApplicationId tid, u8 storageId) -> object<nn::fssrv::sf::IStorage> dataStorage`\nException: at Ryujinx.HLE.HOS.Services.IpcService.CallMethod(ServiceCtx Context) in Ryujinx.HLE\HOS\Services\IpcService.cs:line 121",
+	"nickname": "MichalSy"
 }
