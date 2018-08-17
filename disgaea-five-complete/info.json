@@ -6,8 +6,8 @@
 	],
 	"name": "Disgaea 5 Complete",
 	"state": "In Game / Unimplemented Service",
-	"state_emu_version": "7c7ee8f8",
-	"state_last_date": "25/06/2018",
-	"comment": "Goes in-game but the graphics have too many issues and no audio. Input works, although is only about 3-4 fps. It needs `AppletOE ISelfController: 62` and `/dev/nvhost-nvdec 40044801` when cut-scene(s) play. You can skip the dialogue before the cut-scene(s) play.",
-	"nickname": "Hexagon12 & HorrorTroll"
+	"state_emu_version": "1.0.1390",
+	"state_last_date": "17/08/2018",
+	"comment": "Goes in-game, the graphics renders quite correctly, audio is fine. Input works, runs at around 10 up to 60fps. It needs `AppletOE ISelfController: 62` and `/dev/nvhost-nvdec 40044801` when cut-scene(s) play. You can skip the dialogue before the cut-scene(s) play.",
+	"nickname": "Maik"
 }
