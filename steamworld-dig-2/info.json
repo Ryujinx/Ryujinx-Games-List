@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100CA9002322000"
+	],
+	"name": "SteamWorld Dig 2",
+	"state": "Playable",
+	"state_emu_version": "3410005",
+	"state_last_date": "17/18/2018",
+	"comment": "In menu over 200FPS. In game sequences low frame rates up to 10FPS. Game runs normally at 70-80FPS. There are shadow and sound problems. Still playable!",
+	"nickname": "MichalSy"
+}
