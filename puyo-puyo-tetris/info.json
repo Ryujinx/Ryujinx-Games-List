@@ -1,13 +1,13 @@
-{ 
+﻿{ 
 	"title_id": 
 	[ 
 		"0100F3D001DEE000",
 		"0100F3D001DEE800"
 	],
 	"name": "Puyo Puyo™ Tetris®",
-	"state": "In Game / Playable",
-	"state_emu_version": "37a6e84",
-	"state_last_date": "25/06/2018",
-	"comment": "Goes ingame but emulation is slow.",
-	"nickname": "gdkchan"
+	"state": "Fully Playable",
+	"state_emu_version": "43c4e7c",
+	"state_last_date": "26/08/2018",
+	"comment": "Goes ingame, runs at 60fps and more, practically everything renders correctly",
+	"nickname": "Maik"
 }

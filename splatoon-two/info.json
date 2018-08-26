@@ -1,4 +1,4 @@
-{ 
+﻿{ 
 	"title_id": 
 	[ 
 		"01003BC0000A0000",
@@ -7,9 +7,9 @@
 		"0100F8F0000A2800"
 	],
 	"name": "Splatoon™ 2",
-	"state": "GPU Error / Boot Screen",
-	"state_emu_version": "e7efee79",
-	"state_last_date": "03/06/2018",
-	"comment": "Sometimes it deadlocks or exceeds the constant register limit of 1024 to compile GL code.",
-	"nickname": "Hexagon12"
+	"state": "Loading Screen",
+	"state_emu_version": "43c4e7c",
+	"state_last_date": "26/08/2018",
+	"comment": "Goes into the loading screens and then crashes",
+	"nickname": "Maik"
 }

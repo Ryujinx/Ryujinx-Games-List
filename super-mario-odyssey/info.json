@@ -1,13 +1,13 @@
-{ 
+﻿{ 
 	"title_id": 
 	[ 
 		"0100000000010000",
 		"0100000000010800"
 	],
 	"name": "Super Mario Odyssey™",
-	"state": "Main Menu",
-	"state_emu_version": "241b465",
-	"state_last_date": "22/07/2018",
-	"comment": "Boots to main menu in about 2-3 minutes, runs at 5-10FPS, intro music plays for a few seconds when going ingame and then crashes.",
-	"nickname": "Firewolf"
+	"state": "Ingame",
+	"state_emu_version": "43c4e7c",
+	"state_last_date": "26/08/2018",
+	"comment": "Boots into the main menus, when load a save (with docked mode) goes ingame and renders 3D graphics with missing texture, the game runs really slow at 1-4fps",
+	"nickname": "Maik"
 }
