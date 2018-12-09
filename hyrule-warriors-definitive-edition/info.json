@@ -1,9 +1,10 @@
 { 
 	"title_id": 
 	[ 
-		"0100AE00096EA000"
+		"0100AE00096EA000",
+		"01002AB007FD2000"
 	],
-	"name": "Hyrule Warriors: Definitive Edition",
+	"name": "Hyrule Warriors: Definitive Edition (ゼルダ無双 ハイラルオールスターズ DX)",
 	"state": "Unhandled Exception",
 	"state_emu_version": "c29c3be",
 	"state_last_date": "09/12/2018",
