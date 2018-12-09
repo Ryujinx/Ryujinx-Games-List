@@ -4,9 +4,10 @@
 		"0100AE00096EA000"
 	],
 	"name": "Hyrule Warriors: Definitive Edition",
-	"state": "Unimplemented Services",
-	"state_emu_version": "30829fc",
-	"state_last_date": "25/05/2018",
-	"comment": "`nvdrv INvDrvServices: 6`",
-	"nickname": "Mcdev"
+	"state": "Unhandled Exception",
+	"state_emu_version": "c29c3be",
+	"state_last_date": "09/12/2018",
+	"comment": "`Unhandeld Exception: CLR/System.DllNotFoundException
+An exception of type 'System.DllNotFoundException' occurred in FFmpeg.AutoGen.dll but was not handled in user code: 'Unable to load DLL 'avcodec.58': The specified module could not be found.'`",
+	"nickname": "WilliamWsyHK"
 }
