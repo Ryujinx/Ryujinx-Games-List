@@ -5,10 +5,10 @@
 		"01002AB007FD2000"
 	],
 	"name": "Hyrule Warriors: Definitive Edition (ゼルダ無双 ハイラルオールスターズ DX)",
-	"state": "Unhandled Exception",
+	"state": "Main Menu / Unhandled Exception",
 	"state_emu_version": "c29c3be",
 	"state_last_date": "09/12/2018",
-	"comment": "`Unhandeld Exception: CLR/System.DllNotFoundException
+	"comment": "Loads to Main Menu, but receive `Unhandeld Exception: CLR/System.DllNotFoundException
 An exception of type 'System.DllNotFoundException' occurred in FFmpeg.AutoGen.dll but was not handled in user code: 'Unable to load DLL 'avcodec.58': The specified module could not be found.'`",
 	"nickname": "WilliamWsyHK"
 }
