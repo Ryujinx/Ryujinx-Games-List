@@ -1,0 +1,57 @@
+name: Generate label stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  stats:
+    name: Generate label stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Query stats
+        uses: actions/github-script@v6
+        id: stats
+        with:
+          result-encoding: string
+          script: |
+            const query = `query($owner: String!, $name: String!) { 
+              repository(owner: $owner, name: $name) {
+                labels(first: 100, query: "status") {
+                  nodes {
+                    name
+                    issues {
+                      totalCount
+                    }
+                  }
+                }
+              }
+            }`;
+
+            const variables = {
+              owner: context.repo.owner,
+              name: context.repo.repo,
+            }
+
+            const result = await github.graphql(query, variables)
+
+            const labelsWithIssueCount = result.repository.labels.nodes;
+            const formattedData = {};
+            labelsWithIssueCount.forEach((label) => {
+              formattedData[label.name] = label.issues.totalCount;
+            });
+            
+            const string = JSON.stringify(formattedData, null, 2).replaceAll('\"', '\\"');
+            return string;
+      - name: Write stats
+        run: echo "${{steps.stats.outputs.result}}" > compat-stats.json
+      - name: Commit stats
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update stats"
+          git push
