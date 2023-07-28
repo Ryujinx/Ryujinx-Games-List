@@ -50,7 +50,11 @@ jobs:
             return formattedData;
 
       - name: Write stats
-        run: echo "${{steps.stats.outputs.result}}" > compat-stats.json
+        run: |
+          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+          cat << $EOF > compat-stats.json
+          ${{steps.stats.outputs.result}}
+          $EOF
 
       - name: Commit stats
         run: |
