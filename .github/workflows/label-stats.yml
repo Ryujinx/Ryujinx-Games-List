@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: master
 
       - name: Query stats
         uses: actions/github-script@v6
