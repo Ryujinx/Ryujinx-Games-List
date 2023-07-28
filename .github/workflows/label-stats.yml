@@ -47,8 +47,7 @@ jobs:
               formattedData[label.name] = label.issues.totalCount;
             });
             
-            const string = JSON.stringify(formattedData, null, 2).replaceAll('\"', '\\"');
-            return string;
+            return formattedData;
 
       - name: Write stats
         run: echo "${{steps.stats.outputs.result}}" > compat-stats.json
