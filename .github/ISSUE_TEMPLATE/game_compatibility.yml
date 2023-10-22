@@ -39,6 +39,7 @@ body:
       value: |
         - ##### CPU: *(e.g. i7-6700)*
         - ##### GPU: *(e.g. NVIDIA RTX 2070)*
+        - ##### Driver version: *(e.g. 545.84)*
         - ##### RAM: *(e.g. 16GB)*
     validations:
       required: true
