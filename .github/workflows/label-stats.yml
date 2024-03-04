@@ -67,7 +67,7 @@ jobs:
       - name: Check if files have been modified
         id: mod_check
         run: |
-          [[ $(git status -s | wc -l) -le 1 ]] \
+          [[ $(git status -s | wc -l) -lt 1 ]] \
           && echo "is-dirty=false" >> "$GITHUB_OUTPUT" \
           || echo "is-dirty=true" >> "$GITHUB_OUTPUT"
 
