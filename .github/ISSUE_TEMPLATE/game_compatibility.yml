@@ -71,4 +71,4 @@ body:
       description: Logs files can be found under the "Logs" subfolder in the Ryujinx program folder. 
       placeholder: Drag and drop the log file onto the text area.
     validations:
-      required: false
+      required: true
